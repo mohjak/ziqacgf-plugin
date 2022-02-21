@@ -1,6 +1,6 @@
-# ZAD IslamQA Competition With Google Forms Plugin
+# ZAD IslamQA Competitions With Google Forms Plugin
 
-WordPress plugin built to edit competition forms, and winners.
+WordPress plugin built to edit competitions' forms, and winners.
 
 ## License
 
