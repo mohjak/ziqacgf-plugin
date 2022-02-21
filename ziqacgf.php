@@ -1,8 +1,8 @@
 <?php
 
 /**
- * Plugin Name: ZAD IslamQA Competition With Google Forms
- * Description: WordPress plugin built to edit competition forms, and winners.
+ * Plugin Name: ZAD IslamQA Competitions With Google Forms
+ * Description: WordPress plugin built to edit competitions' forms, and winners.
  * Version: 0.1.0
  * Author: ZAD
  * Author URI: https://zadgroup.net
@@ -23,7 +23,7 @@ add_action('plugins_loaded', function () {
     $display_admin_notice = function () use ($missing_dependencies) {
 ?>
         <div class="notice notice-error">
-            <p>The ZAD Competition core plugin can't be loaded because these dependencies are missing:</p>
+            <p>The ZAD IslamQA Competitions' core plugin can't be loaded because these dependencies are missing:</p>
             <ul>
                 <?php foreach ($missing_dependencies as $missing_dependency) : ?>
                     <li><?php echo esc_html($missing_dependency); ?></li>

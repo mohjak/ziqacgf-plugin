@@ -1,6 +1,6 @@
 {
-  "name": "zad/competition-google-forms",
-  "description": "ZAD IslamQA WordPress plugin built to edit competition forms, and winners.",
+  "name": "zad/islamqa-competitions-google-forms",
+  "description": "ZAD IslamQA WordPress plugin built to edit competitions' forms, and winners.",
   "type": "wordpress-plugin",
   "license": "MIT",
   "authors": [
